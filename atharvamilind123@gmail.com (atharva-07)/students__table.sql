@@ -1,0 +1,10 @@
+CREATE TABLE students (
+	student_id BIGSERIAL PRIMARY KEY,
+	firstname VARCHAR(50) NOT NULL,
+	lastname VARCHAR(50) NOT NULL,
+	username VARCHAR(20) UNIQUE NOT NULL,
+	email VARCHAR(60) UNIQUE NOT NULL,
+	contact_no CHARACTER(10) UNIQUE NOT NULL,
+	date_of_birth DATE NOT NULL,
+	country VARCHAR(56) NOT NULL
+);
