@@ -21,6 +21,7 @@ CREATE TABLE student_feedback
     student_id INT NOT NULL,
     feedback_type VARCHAR(10) NOT NULL,
     feedback_text VARCHAR(200) NOT NULL,
+    is_response INT NOT NULL,
     FOREIGN KEY (student_id) REFERENCES student(student_id)
 
 
