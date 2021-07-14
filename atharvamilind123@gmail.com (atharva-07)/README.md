@@ -2,12 +2,13 @@
 ## @atharva-07 - atharvamilind123@gmail.com
 
 - Created 7 tables
-  1. students
-  2. packages
-  3. quizzes
-  4. questions
-  5. question_options
-  6. student_answers
-  7. tests_given
-
-- Built necessary relationships between the tables to avoid duplication of data and implementing aggregation.
+   - students
+   - packages (a 'package' categorizes a set of 'quizzes' (or tests). eg: All the 'Python' related tests are stored with 'package_id' of Python package.)
+   - quizzes
+   - questions
+   - question_options
+   - student_answers
+   - tests_given
+- Built necessary relationships between the tables using Primary and Foreign keys to avoid redundant duplication of data leading to lesser consumption of space.
+- Created the relations in a way which makes it easier to implement aggregation.
+- Tested JOIN operations with different inputs for relations between all the tables.
