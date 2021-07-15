@@ -35,4 +35,10 @@ Task 5: Finalised the class diagram and worked on code according to it. Updated 
    - tests_given
 - Built necessary relationships between the tables using Primary and Foreign keys to avoid redundant duplication of data leading to lesser consumption of space.
 - Created the relations in a way which makes it easier to implement aggregation.
-- Tested JOIN operations with different inputs for relations between all the tables.
+- Tested JOIN operations with different inputs for relations between all the tables.                 
+
+## @1Aditi - aadeeti.patil@gmail.com
+1. Research and Studied what is database schema 
+2. Installed PostgreSql on my device and created a local server
+3. Finalized the database design and created the database schema based on the same. 
+
