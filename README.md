@@ -2,14 +2,6 @@
 
 ## Task: Create different schemas required for the test platform database
 
-## @anishyekhande - anishyekhande@gmail.com
-Task 1  - Information gathered related to the task assigned;What is a database schema and the system and environments required.
-Task 2 - Researched more on the topic.Understand how the postgresql works and create an adaptive workable environment.
-Task 3 - Learnt the various terminologies which are useful in developing the database like constraints,primary key,foreign key,cascading.
-Task 4 - Moved on to the coding task of the schema in vscode along with postgresql.Created tables, assigned relevant primary keys and foreign keys to the columns according to 
-         database diagram
-
-
 ## @Nishadanimal - nishadkadam55@gmail.com
 - Task 1: Researched about my topic.Learned what is a database schema,how to create a database schema, enviroment requirements to create databases.
 - Task 1: Researched about my topic.Learned what is a database schema,how to create a database schema, enviroment requirements to create databases.
