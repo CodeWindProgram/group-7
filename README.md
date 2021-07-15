@@ -38,7 +38,7 @@ Task 5: Finalised the class diagram and worked on code according to it. Updated 
 - Tested JOIN operations with different inputs for relations between all the tables.                 
 
 ## @1Aditi - aadeeti.patil@gmail.com
-1. Research and Studied what is database schema 
-2. Installed PostgreSql on my device and created a local server
-3. Finalized the database design and created the database schema based on the same. 
+- Research and Studied what is database schema 
+- Installed PostgreSql on my device and created a local server
+- Finalized the database design and created the database schema based on the same. 
 
